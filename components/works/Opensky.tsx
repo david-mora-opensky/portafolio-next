@@ -18,19 +18,25 @@ const Opensky = () => {
                 <span className="text-textBlue mt-1">
                     <TiArrowForward />
                 </span>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate quas dolorem praesentium suscipit maiores a odit quidem nostrum perspiciatis in qui illo temporibus totam quae, accusantium impedit harum ea? Similique?
+                Desarrollo y mantenimiento de landing page, aplicaciones y ecosistemas web utilizando tecnologías frontend como JavaScript, SCSS, Next JS.
             </li>
             <li className="text-base flex gap-2 text-textDark">
                 <span className="text-textBlue mt-1">
                     <TiArrowForward />
                 </span>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate quas dolorem praesentium suscipit maiores a odit quidem nostrum perspiciatis in qui illo temporibus totam quae, accusantium impedit harum ea? Similique?
+                Implementación de backend como Node JS, Express JS funcionando con bases de datos relacionales MySQL y no relaciones como Mongo DB o Firebase.                 
             </li>
             <li className="text-base flex gap-2 text-textDark">
                 <span className="text-textBlue mt-1">
                     <TiArrowForward />
                 </span>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate quas dolorem praesentium suscipit maiores a odit quidem nostrum perspiciatis in qui illo temporibus totam quae, accusantium impedit harum ea? Similique?
+                Implementación de WordPress en la elaboración de sitios web y ecommerce utilizando plugins como Elementor, Contact Form, Popup Maker, WooCommerce, Script N Styles entre otros, agregando código JS y CSS propio para una personalización más específica. 
+            </li>
+            <li className="text-base flex gap-2 text-textDark" >
+                <span className="text-textBlue mt-1">
+                    <TiArrowForward />
+                </span>
+            Administrador distintos sistemas de gestión de aprendizaje en línea (LMS) como Moodle, Blackboard y Canvas lo que me ha permitido adquirir experiencia en la gestión, configuración, personalización y administración de estas plataformas.
             </li>
         </ul>
     </motion.div>

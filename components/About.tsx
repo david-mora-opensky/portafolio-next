@@ -14,14 +14,10 @@ const About = () => {
         <div className='flex flex-col lgl:flex-row gap-16'>
             <div className='w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4'>
                 <p>
-                    Hola, mi nombre es David, y disfruto creando Lorem, ipsum dolor sit amet consectetur adipisicing elit. Commodi libero dolore modi repudiandae molestias earum, labore nihil totam explicabo officiis! Consequatur, soluta? Possimus natus, asperiores odio autem expedita esse fugiat. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                </p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus eos deleniti consectetur itaque ab fugiat maiores ratione veniam ex nemo fuga illum ea vero, tenetur sint consequatur ducimus minima placeat. 
-                    <span className='text-textGreen'> a huge corporation and a student desing studio</span>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. autem veritatis voluptate dignissimos molestias quam exercitationem alias repudiandae incidunt praesentium eius. 
-                <span className='text-textGreen'>Veniam cupiditate aperiam impedit</span>
-                </p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis ratione porro quae eligendi, asperiores dolore, blanditiis quaerat esse voluptas saepe itaque assumenda obcaecati error temporibus officiis, veniam numquam repellat libero!</p>
+                    Hola, mi nombre es David, soy una persona apasionada por la tecnología, actualmente me encuentro terminando la carrera de Ingenieria de Software y desde siempre he trabajado en la resolución de problemas e implementando una transformación digital en los ambientes que me rodean. 
+                    <span className='text-textGreen'> Considero el aprendizaje constante </span>
+                    como fundamental para mantenerse competitivo y creo en <span className='text-textGreen'>el trabajo en equipo </span> como eje indispensalbe para llevar a cabo proyectos grandes y escalables. </p>
+            
                 <p>A continuación se encuentran las tecnologías que más he trabajado: </p>
                 <ul className='max-w-[450px] text-sm font-titleFont grid grid-cols-2 gap-2 mt-6'>
                     <li className='flex items-center gap-2'>

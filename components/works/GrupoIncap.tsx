@@ -18,19 +18,19 @@ const GrupoIncap = () => {
                 <span className="text-textBlue mt-1">
                     <TiArrowForward />
                 </span>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate quas dolorem praesentium suscipit maiores a odit quidem nostrum perspiciatis in qui illo temporibus totam quae, accusantium impedit harum ea? Similique?
+                Líder de los técnicos TI de la mesa de ayuda del Grupo INCAP encargado de dar solución a las distintias solicitudes del personal academico, administrativo y estudiantil.
             </li>
             <li className="text-base flex gap-2 text-textDark">
                 <span className="text-textBlue mt-1">
                     <TiArrowForward />
                 </span>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate quas dolorem praesentium suscipit maiores a odit quidem nostrum perspiciatis in qui illo temporibus totam quae, accusantium impedit harum ea? Similique?
+                Documentación de cada ticket respuesta en los tiempos establecidos.
             </li>
             <li className="text-base flex gap-2 text-textDark">
                 <span className="text-textBlue mt-1">
                     <TiArrowForward />
                 </span>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate quas dolorem praesentium suscipit maiores a odit quidem nostrum perspiciatis in qui illo temporibus totam quae, accusantium impedit harum ea? Similique?
+                Realización de backups de información en la nube, preparación de equipos de computo para el personal de la empresa y arreglo del cableado de red de la infraestructura.
             </li>
         </ul>
     </motion.div>

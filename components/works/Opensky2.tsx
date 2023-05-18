@@ -18,19 +18,19 @@ const Opensky2 = () => {
                 <span className="text-textBlue mt-1">
                     <TiArrowForward />
                 </span>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate quas dolorem praesentium suscipit maiores a odit quidem nostrum perspiciatis in qui illo temporibus totam quae, accusantium impedit harum ea? Similique?
+                Desarrollo de aplicaciones web, sitios web y landign de la parte del cliente con tecnologías como JavaScript, HTML y CSS
             </li>
             <li className="text-base flex gap-2 text-textDark">
                 <span className="text-textBlue mt-1">
                     <TiArrowForward />
                 </span>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate quas dolorem praesentium suscipit maiores a odit quidem nostrum perspiciatis in qui illo temporibus totam quae, accusantium impedit harum ea? Similique?
+                Despligue de sitios web y ecommerce con WordPress
             </li>
             <li className="text-base flex gap-2 text-textDark">
                 <span className="text-textBlue mt-1">
                     <TiArrowForward />
                 </span>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate quas dolorem praesentium suscipit maiores a odit quidem nostrum perspiciatis in qui illo temporibus totam quae, accusantium impedit harum ea? Similique?
+                Administración y personalización de Moodle para la implementación de cursos virtuales y UI personalizado.
             </li>
         </ul>
     </motion.div>

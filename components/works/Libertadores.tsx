@@ -18,19 +18,19 @@ const Libertadores = () => {
                 <span className="text-textBlue mt-1">
                     <TiArrowForward />
                 </span>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate quas dolorem praesentium suscipit maiores a odit quidem nostrum perspiciatis in qui illo temporibus totam quae, accusantium impedit harum ea? Similique?
+                Líder de la mesa de ayuda para el soporte técnico de la universidad los libertadores, asignando tickets al equipo de técnicos.
             </li>
             <li className="text-base flex gap-2 text-textDark">
                 <span className="text-textBlue mt-1">
                     <TiArrowForward />
                 </span>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate quas dolorem praesentium suscipit maiores a odit quidem nostrum perspiciatis in qui illo temporibus totam quae, accusantium impedit harum ea? Similique?
+                Analista de la mesa de ayuda generando reportes para poder medir resultados y llevar un constante feedback.
             </li>
             <li className="text-base flex gap-2 text-textDark">
                 <span className="text-textBlue mt-1">
                     <TiArrowForward />
                 </span>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate quas dolorem praesentium suscipit maiores a odit quidem nostrum perspiciatis in qui illo temporibus totam quae, accusantium impedit harum ea? Similique?
+               Mantenimiento preventivo y correctivo de los equipos de computo de la Fundación Universitaria los Libertadores
             </li>
         </ul>
     </motion.div>

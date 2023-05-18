@@ -18,19 +18,19 @@ const Soldicom = () => {
                 <span className="text-textBlue mt-1">
                     <TiArrowForward />
                 </span>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate quas dolorem praesentium suscipit maiores a odit quidem nostrum perspiciatis in qui illo temporibus totam quae, accusantium impedit harum ea? Similique?
+                Encargado de desarrollar los proyectos de la mesa de ayuda de SOLDICOM por medio de tecnologías como JavaScript, Next JS, ReactJs, CSS
             </li>
             <li className="text-base flex gap-2 text-textDark">
                 <span className="text-textBlue mt-1">
                     <TiArrowForward />
                 </span>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate quas dolorem praesentium suscipit maiores a odit quidem nostrum perspiciatis in qui illo temporibus totam quae, accusantium impedit harum ea? Similique?
+                Administración del sitio web alojado en WordPress, actualización de contenidos y arreglo de bugs.
             </li>
             <li className="text-base flex gap-2 text-textDark">
                 <span className="text-textBlue mt-1">
                     <TiArrowForward />
                 </span>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate quas dolorem praesentium suscipit maiores a odit quidem nostrum perspiciatis in qui illo temporibus totam quae, accusantium impedit harum ea? Similique?
+                Brindar asesorías en infraestructura, manejo de programas y tecnologia a las estaciones de servicio de Bogotá y Cundinamarca
             </li>
         </ul>
     </motion.div>

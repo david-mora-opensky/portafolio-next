@@ -33,16 +33,11 @@ const Projects = () => {
             </p>
             <h3 className="text-2xl font-bold">Latam Medtronic Academy</h3>
             <p className="bg-[#112240] text-sm md:text-base p-2 md:p-6 rounded-md">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Consectetur quidem repudiandae saepe facilis.
-              <span className="text-textGreen">
-                interconectadas con Moodle
-              </span>{" "}
-              facil login con una{" "}
-              <span className="text-textGreen">
+            Ecosistema de Educación Virtual que consiste en un portafolio web para <span className="text-textGreen">
+            centralizar cursos virtuales 
+              </span> junto a <span className="text-textGreen">cinco plataformas Moodle integradas </span>también se desarrollo una <span className="text-textGreen">
                 plataforma de autenticación
-              </span>{" "}
-              la cual controla todos los procesos a nivel de usuario
+              </span> con un sistema de administración analítica y autenticación. También se implemento una <span className="text-textGreen">plataforma de videos y mesa de ayuda.</span>
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
               <li>NextJS</li>
@@ -58,21 +53,14 @@ const Projects = () => {
             </ul>
             <div className="text-2xl flex gap-4">
               <a
-                href="#"
+                href="https://github.com/openskyinformation/moodle-css"
                 className="hover:text-textBlue duration-300"
                 target="_blank"
               >
                 <TbBrandGithub />
               </a>
               <a
-                href="#"
-                className="hover:text-textBlue duration-300"
-                target="_blank"
-              >
-                <AiOutlineYoutube />
-              </a>
-              <a
-                href="#"
+                href="https://latam.medtronicacademy.com/"
                 className="hover:text-textBlue duration-300"
                 target="_blank"
               >
@@ -93,7 +81,7 @@ const Projects = () => {
               <Image
                 className="w-full h-full object-contain"
                 src={kikoSite}
-                alt="latamMedtronicImage"
+                alt="kiko y tita"
               />
             </div>
           </a>
@@ -103,16 +91,11 @@ const Projects = () => {
             </p>
             <h3 className="text-2xl font-bold">Kiko y Tita</h3>
             <p className="bg-[#112240] text-sm md:text-base p-2 md:p-6 rounded-md">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Consectetur quidem repudiandae saepe facilis.
-              <span className="text-textGreen">
-                interconectadas con Moodle
-              </span>{" "}
-              facil login con una{" "}
-              <span className="text-textGreen">
-                plataforma de autenticación
-              </span>{" "}
-              la cual controla todos los procesos a nivel de usuario
+            Desarrollo de e-Commerce con <span className="text-textGreen">
+                WooCommerce
+              </span> para la venta de comida y productos para mascotas, aplicando el look and feel personalizado del cliente, utilizando  <span className="text-textGreen">
+              código CSS y JS personalizado
+              </span> 
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
               <li>JavaScript</li>
@@ -124,21 +107,15 @@ const Projects = () => {
             </ul>
             <div className="text-2xl flex gap-4">
               <a
-                href="#"
+                href="https://github.com/openskyinformation/kiko-custom"
                 className="hover:text-textBlue duration-300"
                 target="_blank"
               >
                 <TbBrandGithub />
               </a>
+            
               <a
-                href="#"
-                className="hover:text-textBlue duration-300"
-                target="_blank"
-              >
-                <AiOutlineYoutube />
-              </a>
-              <a
-                href="#"
+                href="https://kiko.com.co/"
                 className="hover:text-textBlue duration-300"
                 target="_blank"
               >
@@ -169,16 +146,8 @@ const Projects = () => {
             </p>
             <h3 className="text-2xl font-bold">CBS Libranzas</h3>
             <p className="bg-[#112240] text-sm md:text-base p-2 md:p-6 rounded-md">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Consectetur quidem repudiandae saepe facilis.
-              <span className="text-textGreen">
-                interconectadas con Moodle
-              </span>{" "}
-              facil login con una{" "}
-              <span className="text-textGreen">
-                plataforma de autenticación
-              </span>{" "}
-              la cual controla todos los procesos a nivel de usuario
+            Desarrollo de un Landing Page, con la estructuración de información sobre servicios financieros, equipo de trabajo, formulario de contacto y ubicación. Brindando una interfaz innovadora y amigable con el cliente.
+            
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
               <li>JavaScript</li>
@@ -189,21 +158,15 @@ const Projects = () => {
             </ul>
             <div className="text-2xl flex gap-4">
               <a
-                href="#"
+                href="https://github.com/openskyinformation/cbs"
                 className="hover:text-textBlue duration-300"
                 target="_blank"
               >
                 <TbBrandGithub />
               </a>
+            
               <a
-                href="#"
-                className="hover:text-textBlue duration-300"
-                target="_blank"
-              >
-                <AiOutlineYoutube />
-              </a>
-              <a
-                href="#"
+                href="https://opensky-information-cbs.firebaseapp.com/"
                 className="hover:text-textBlue duration-300"
                 target="_blank"
               >
@@ -224,7 +187,7 @@ const Projects = () => {
               <Image
                 className="w-full h-full object-contain"
                 src={artisanatSite}
-                alt="latamMedtronicImage"
+                alt="artisanat"
               />
             </div>
           </a>
@@ -234,16 +197,8 @@ const Projects = () => {
             </p>
             <h3 className="text-2xl font-bold">Artisanat</h3>
             <p className="bg-[#112240] text-sm md:text-base p-2 md:p-6 rounded-md">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Consectetur quidem repudiandae saepe facilis.
-              <span className="text-textGreen">
-                interconectadas con Moodle
-              </span>{" "}
-              facil login con una{" "}
-              <span className="text-textGreen">
-                plataforma de autenticación
-              </span>{" "}
-              la cual controla todos los procesos a nivel de usuario
+            Desarrollo de sitio web + e-Commerce para la venta de hamburguesas, cerveza artesanal entre otros productos. También permite compartir los eventos que realiza el establecimiento.
+             
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
               <li>JavaScript</li>
@@ -255,21 +210,14 @@ const Projects = () => {
             </ul>
             <div className="text-2xl flex gap-4">
               <a
-                href="#"
+                href="https://github.com/david-mora-opensky/moodle-css"
                 className="hover:text-textBlue duration-300"
                 target="_blank"
               >
                 <TbBrandGithub />
               </a>
               <a
-                href="#"
-                className="hover:text-textBlue duration-300"
-                target="_blank"
-              >
-                <AiOutlineYoutube />
-              </a>
-              <a
-                href="#"
+                href="https://opensky-information-artisanat.web.app/"
                 className="hover:text-textBlue duration-300"
                 target="_blank"
               >
@@ -290,7 +238,7 @@ const Projects = () => {
               <Image
                 className="w-full h-full object-contain"
                 src={eLearningBisonteSite}
-                alt="eLearningBisonte"
+                alt="eLearning Bisonte"
               />
             </div>
           </a>
@@ -300,16 +248,9 @@ const Projects = () => {
             </p>
             <h3 className="text-2xl font-bold">E-Learning Bisonte</h3>
             <p className="bg-[#112240] text-sm md:text-base p-2 md:p-6 rounded-md">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Consectetur quidem repudiandae saepe facilis.
-              <span className="text-textGreen">
-                interconectadas con Moodle
-              </span>{" "}
-              facil login con una{" "}
-              <span className="text-textGreen">
-                plataforma de autenticación
-              </span>{" "}
-              la cual controla todos los procesos a nivel de usuario
+            Personalización y configuración de plataforma   <span className="text-textGreen">
+                Moodle
+              </span> para el desarrollo de cursos virtuales aplicando look and feel del cliente.
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
               <li>JavaScript</li>
@@ -320,21 +261,14 @@ const Projects = () => {
             </ul>
             <div className="text-2xl flex gap-4">
               <a
-                href="#"
+                href="https://github.com/openskyinformation/bisonte-custom"
                 className="hover:text-textBlue duration-300"
                 target="_blank"
               >
                 <TbBrandGithub />
               </a>
               <a
-                href="#"
-                className="hover:text-textBlue duration-300"
-                target="_blank"
-              >
-                <AiOutlineYoutube />
-              </a>
-              <a
-                href="#"
+                href="https://elearning.bisonte.co/"
                 className="hover:text-textBlue duration-300"
                 target="_blank"
               >
